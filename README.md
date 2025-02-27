@@ -7,7 +7,7 @@
 1. Клонируйте репозиторий:
    ```bash
    git clone https://github.com/AminHumara/human-detection.git
-   cd crowd_detection
+   cd human-detection
    ```
 
 2. Установите зависимости:
