@@ -87,7 +87,7 @@ def process_video(input_path, output_path, model):
 
 def main():
     """Точка входа в программу."""
-    input_path = "crowd.mp4"
+    input_path = "input/crowd.mp4"
     output_path = "output/processed_crowd.mp4"
     model_path = "yolov8n.pt"
 
