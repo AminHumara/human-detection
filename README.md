@@ -20,7 +20,7 @@
 ## Запуск
 
 ```bash
-   pip install -r requirements.txt
+   python main.py
    ```
 Результат будет сохранен в output/processed_crowd.mp4.
 
