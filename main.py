@@ -1,3 +1,8 @@
+from ultralytics import YOLO
+import cv2
+import numpy as np
+import os
+
 model = YOLO("yolov8n.pt")
 
 def load_model(model_path="yolov8n.pt"):
