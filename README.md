@@ -18,9 +18,13 @@
 3. Убедитесь, что модель yolov8n.pt доступна (будет автоматически загружена YOLOv8 при первом запуске, если не указан локальный путь).
 
 ## Запуск
-
+Для Windows:
 ```bash
    python main.py
+   ```
+Для MacOS, Linux:
+```bash
+   python3 main.py
    ```
 Результат будет сохранен в output/processed_crowd.mp4.
 
