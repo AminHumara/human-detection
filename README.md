@@ -20,7 +20,7 @@
 ## Запуск
 
 ```bash
-   python main.py
+   python3 main.py
    ```
 Результат будет сохранен в output/processed_crowd.mp4.
 
