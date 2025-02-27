@@ -6,7 +6,7 @@
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/AminHumara/human-detection.git
    cd crowd_detection
    ```
 
